@@ -206,7 +206,7 @@
 
 
 @font-face {
-    font-family: 'galano_grotesque_alt_demobold';
+    font-family: 'Montserrat', sans-serif';
     src: url('/assets/Font/ggaltdemobold-webfont.woff2') format('woff2'),
          url('/assets/Font/ggaltdemobold-webfont.woff') format('woff');
     font-weight: normal;
@@ -2690,7 +2690,7 @@ body.js-page-out .pointer {
 .header-contact__btn {
 	white-space: nowrap;
 	pointer-events: auto;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 11px;
 	font-weight: 600;
 	letter-spacing: 2px;
@@ -3229,7 +3229,7 @@ body.js-page-out .pointer {
 .nav-btn__inner {
 	margin:  0;
 	padding: 0;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 60px;
 	font-weight: 300;
 	line-height: 1.2;
@@ -4340,7 +4340,7 @@ body.js-page-out .pointer {
 	.landing-nav__btn {
 		display: inline-block;
 		margin-right: 50px;
-		 font-family: 'galano_grotesque_alt_demobold';
+		 font-family: 'Montserrat', sans-serif;;
 		font-size: 12px;
 		font-weight: 600;
 		letter-spacing: 2px;
@@ -4596,7 +4596,7 @@ body.js-page-out .pointer {
 }
 
 .footer-nav__btn {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 14px;
 	font-weight: 500;
 	letter-spacing: 3px;
@@ -4770,7 +4770,7 @@ body.js-page-out .pointer {
 
 .mfp-counter {
 	right: 50%;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 12px;
 	font-weight: 700;
 	color: #fff;
@@ -5409,7 +5409,7 @@ button.mfp-close {
 	position: absolute;
 	left: 50%;
 	top:  50%;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 13px;
 	font-weight: 700;
 	line-height: 1;
@@ -6182,7 +6182,7 @@ button.mfp-close {
 
 .skew-btn__content {
 	margin-right: 10px;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 13px;
 	font-weight: 600;
 	letter-spacing: 4px;
@@ -6302,7 +6302,7 @@ button.mfp-close {
 	padding: 15px 34px 15px 40px;
 	position: relative;
 	z-index: 2;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 13px;
 	font-weight: 400;
 	letter-spacing: 6px;
@@ -6396,7 +6396,7 @@ button.mfp-close {
 .bg-btn {
 	display: inline-block;
 	padding: 15px 33px 15px 40px;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 11px;
 	font-weight: 700;
 	letter-spacing: 7px;
@@ -6431,7 +6431,7 @@ button.mfp-close {
 .border-btn__inner {
 	display: inline-block;
 	padding: 20px 33px 20px 40px;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 12px;
 	font-weight: 700;
 	letter-spacing: 7px;
@@ -6726,7 +6726,7 @@ button.mfp-close {
 .fill-btn {
 	display: inline-block;
 	position: relative;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 11px;
 	font-weight: 700;
 	letter-spacing: 5px;
@@ -6839,7 +6839,7 @@ body .js-filter-button.js-filter-button-active.fill-btn:after {
 	display: inline-block;
 	overflow: hidden;
 	position: relative;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 12px;
 	font-weight: 500;
 	letter-spacing: 3px;
@@ -6932,7 +6932,7 @@ body .js-filter-button.js-filter-button-active.flip-btn:after {
 	padding: 0 38px 0 40px;
 	border: 1px solid #fff;
 	border-radius: 25px;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 13px;
 	font-weight: 500;
 	letter-spacing: 2px;
@@ -7020,7 +7020,7 @@ body .ellipse-btn.ellipse-btn_red {
    ========================================================================== */
 
 body {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 14px;
 	font-weight: 400;
 	-moz-osx-font-smoothing: grayscale;
@@ -7031,18 +7031,18 @@ button,
 input,
 select,
 textarea {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 14px;
 	line-height: 1.75;
 }
 
 p {
 	margin: 0;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 }
 
 a {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	text-decoration: none;
 }
 
@@ -7053,7 +7053,7 @@ h4,
 h5,
 h6 {
 	margin: 0;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	line-height: 1.2;
 }
 
@@ -7303,77 +7303,77 @@ h6 {
    ========================================================================== */
 
 .headline-xxxxl {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 94px;
 	font-weight: 300;
 	line-height: 1.2;
 }
 
 .headline-xxxl {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 86px;
 	font-weight: 300;
 	line-height: 1.2;
 }
 
 .headline-xxl {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 78px;
 	font-weight: 300;
 	line-height: 1.2;
 }
 
 .headline-xl {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 70px;
 	font-weight: 300;
 	line-height: 1.2;
 }
 
 .headline-l {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 62px;
 	font-weight: 300;
 	line-height: 1.2;
 }
 
 .headline-m {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 54px;
 	font-weight: 300;
 	line-height: 1.2;
 }
 
 .headline-s {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 46px;
 	font-weight: 300;
 	line-height: 1.2;
 }
 
 .headline-xs {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 38px;
 	font-weight: 300;
 	line-height: 1.2;
 }
 
 .headline-xxs {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 30px;
 	font-weight: 300;
 	line-height: 1.2;
 }
 
 .headline-xxxs {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 22px;
 	font-weight: 300;
 	line-height: 1.2;
 }
 
 .headline-xxxxs {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 14px;
 	font-weight: 300;
 	line-height: 1.2;
@@ -7604,56 +7604,56 @@ h6 {
    ========================================================================== */
 
    .subhead-xxxl {
-	font-family: 'galano_grotesque_alt_demobold';
+	font-family: 'Montserrat', sans-serif;;
    font-size: 40px;
    font-weight: 400;
    line-height: 1.4;
 }
 
    .subhead-xxl {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 33px;
 	font-weight: 400;
 	line-height: 1.4;
 }
 
 .subhead-xl {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 30px;
 	font-weight: 400;
 	line-height: 1.4;
 }
 
 .subhead-l {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 27px;
 	font-weight: 400;
 	line-height: 1.4;
 }
 
 .subhead-m {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 24px;
 	font-weight: 400;
 	line-height: 1.4;
 }
 
 .subhead-s {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 21px;
 	font-weight: 400;
 	line-height: 1.4;
 }
 
 .subhead-xs {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 18px;
 	font-weight: 400;
 	line-height: 1.4;
 }
 
 .subhead-xxs {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 15px;
 	font-weight: 400;
 	line-height: 1.4;
@@ -7804,14 +7804,14 @@ h6 {
    ========================================================================== */
 
    .body-text-xxl {
-	font-family: 'galano_grotesque_alt_demobold';
+	font-family: 'Montserrat', sans-serif;;
    font-size: 24px;
    font-weight: 200;
    line-height: 1.9;
 }
 
 .body-text-xxxl {
-	font-family: 'galano_grotesque_alt_demobold';
+	font-family: 'Montserrat', sans-serif;;
    font-size: 32px;
    font-weight: 200;
    line-height: 1.9;
@@ -7819,35 +7819,35 @@ h6 {
 
 
    .body-text-xl {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 21px;
 	font-weight: 200;
 	line-height: 1.9;
 }
 
 .body-text-l {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 19px;
 	font-weight: 200;
 	line-height: 1.9;
 }
 
 .body-text-m {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 17px;
 	font-weight: 200;
 	line-height: 1.9;
 }
 
 .body-text-s {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 15px;
 	font-weight: 200;
 	line-height: 1.9;
 }
 
 .body-text-xs {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 13px;
 	font-weight: 200;
 	line-height: 1.9;
@@ -7962,7 +7962,7 @@ h6 {
    ========================================================================== */
 
 .copyright-style {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 10px;
 	font-weight: 400;
 	letter-spacing: 5px;
@@ -11058,7 +11058,7 @@ input[type='submit']:hover {
 
 ::-webkit-input-placeholder {
 	opacity: .5;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 11px;
 	font-weight: 400;
 	letter-spacing: 2px;
@@ -11074,7 +11074,7 @@ input[type='submit']:hover {
 
 ::-moz-placeholder {
 	opacity: .5;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 11px;
 	font-weight: 400;
 	letter-spacing: 2px;
@@ -11090,7 +11090,7 @@ input[type='submit']:hover {
 
 :-ms-input-placeholder {
 	opacity: .5;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 11px;
 	font-weight: 400;
 	letter-spacing: 2px;
@@ -11106,7 +11106,7 @@ input[type='submit']:hover {
 
 ::-ms-input-placeholder {
 	opacity: .5;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 11px;
 	font-weight: 400;
 	letter-spacing: 2px;
@@ -11122,7 +11122,7 @@ input[type='submit']:hover {
 
 ::placeholder {
 	opacity: .5;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 11px;
 	font-weight: 400;
 	letter-spacing: 2px;
@@ -11186,7 +11186,7 @@ input[type='submit']:hover {
 	-webkit-box-sizing: border-box;
 	    -ms-box-sizing: border-box;
 	        box-sizing: border-box;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-size: 13px;
 	font-weight: 400;
 	letter-spacing: 1px;
@@ -11568,7 +11568,7 @@ textarea.form-input {
 }
 
 .list_counter .list__item:before {
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif;;
 	font-weight: 400;
 }
 
@@ -12293,7 +12293,7 @@ textarea.form-input {
 	position: absolute;
 	left: 50%;
 	top:  50%;
-	 font-family: 'galano_grotesque_alt_demobold';
+	 font-family: 'Montserrat', sans-serif';
 	font-size: 12px;
 	font-weight: 700;
 	letter-spacing: 7px;
