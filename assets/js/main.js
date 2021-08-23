@@ -743,8 +743,7 @@ SOFTWARE.
 
 	/* 18. Contact form */
 	$("#send_form").on('submit', function(){
-		var first_name = $("#first_name").val().trim();
-		var last_name = $("#last_name").val().trim();
+		var full_name = $("#full_name").val().trim();
 		var email = $("#email").val().trim();
 		var message = $("#message").val().trim();
 
@@ -752,7 +751,7 @@ SOFTWARE.
 			url: 'assets/ajax/mail.php',
 			type: 'POST',
 			cache: false,
-			data: {'first_name': first_name, 'last_name': last_name, 'email': email, 'message': message},
+			data: {'full_name': full_name,  'email': email, 'message': message},
 			dataType: 'html',
 			beforeSend: function() {
 				$("#send").addClass("js-active");
